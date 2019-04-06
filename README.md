@@ -13,12 +13,9 @@ Project structure description:</br>
   src: </br>
   comment: generate chinese comment in pojo.</br>
   GeneratorSqlmap: run this project and output the files you need. </br>
-</br>for more detail please see
-</br>
-</br>
+</br>for more detail please see my [blog](http://www.cnblog.com/tianwamg/p/10662804.html)
   
-  
-在InterlliJ IDEA下使用描述：</br>
+</br></br>在InterlliJ IDEA下使用描述：</br>
   1.在idea内打开。</br>
   2.点击 Project Structure->Libraries ，点击绿色添加按钮，选择java，找到lib目录，选择ok即可。</br>
   3.配置generatorConfig.xml文件，包括驱动，数据库，账号，密码；输入表名即可。</br>
