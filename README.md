@@ -13,7 +13,7 @@ Project structure description:</br>
   src: </br>
   comment: generate chinese comment in pojo.</br>
   GeneratorSqlmap: run this project and output the files you need. </br>
-</br>for more detail please see my [blog](http://www.cnblog.com/tianwamg/p/10662804.html)
+</br>for more detail please see my [blog](http://www.cnblogs.com/tianwamg/p/10662804.html)
   
 </br></br>在InterlliJ IDEA下使用描述：</br>
   1.在idea内打开。</br>
@@ -27,6 +27,6 @@ Project structure description:</br>
   comment：pojo类生成中文注释。</br>
   GeneratorSqlmap:运行该项目。</br>
 
-</br>详细请查看[博客](http://www.cnblog.com/tianwamg/p/10662804.html)
+</br>详细请查看[博客](http://www.cnblogs.com/tianwamg/p/10662804.html)
   
   
