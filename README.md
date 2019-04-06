@@ -13,7 +13,7 @@ Project structure description:</br>
   src: </br>
   comment: generate chinese comment in pojo.</br>
   GeneratorSqlmap: run this project and output the files you need. </br>
-</br>for more detail please see [myblog](http://www.cnblog.com/tianwamg/p/10662804.html)
+</br>for more detail please see
 </br>
 </br>
   
