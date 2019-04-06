@@ -5,7 +5,7 @@ use InterlliJ IDEA describe how to use it:</br>
   1.open it in idea.</br>
   2.click Project Structure->Libraries.</br>
   3.click green button add java ,choose lib ,click ok.</br>
-  4.configure database in file generatorConfig.xml,include driverClass,connectionURL,userId,password.after it write your table</br>
+  4.configure database in file generatorConfig.xml,include driverClass,connectionURL,userId,password.after it write your table name.</br>
   5.run file GneratorSqlmap in src.</br>
 Project structure description:</br>
   lib: run this project need jars lib.</br>
