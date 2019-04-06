@@ -13,7 +13,8 @@ Project structure description:</br>
   src: </br>
   comment: generate chinese comment in pojo.</br>
   GeneratorSqlmap: run this project and output the files you need. </br>
-</br>for more detail please see my bolg.</br>
+</br>for more detail please see [myblog](http://www.cnblog.com/tianwamg/p/10662804.html)
+</br>
 </br>
   
   
@@ -29,6 +30,6 @@ Project structure description:</br>
   comment：pojo类生成中文注释。</br>
   GeneratorSqlmap:运行该项目。</br>
 
-</br>详细请查看博客
+</br>详细请查看[博客](http://www.cnblog.com/tianwamg/p/10662804.html)
   
   
